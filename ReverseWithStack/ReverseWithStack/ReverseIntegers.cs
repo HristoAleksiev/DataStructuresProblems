@@ -3,9 +3,9 @@
     using System;
     using System.Collections.Generic;
 
-    class ReverseIntegers
+    public class ReverseIntegers
     {
-        public Stack<int> numbers = new Stack<int>();
+        private Stack<int> numbers = new Stack<int>();
 
         public void ReadNumbers()
         {
