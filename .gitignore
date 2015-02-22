@@ -2,6 +2,7 @@
 *.suo
 *.config
 *.csproj
+.gitattributes
 
 bin/
 obj/
