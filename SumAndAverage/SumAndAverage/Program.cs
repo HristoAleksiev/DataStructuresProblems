@@ -1,7 +1,6 @@
 ﻿namespace SumAndAverage
 {
     using System;
-    using System.Collections.Generic;
 
     public class Program
     {
@@ -11,9 +10,6 @@
 
             operations.ReadNumbers();
             Console.WriteLine(operations.ToString());
-
-            //Console.WriteLine(operations.Sum());
-            //Console.WriteLine(operations.Average());
         }
     }
 }

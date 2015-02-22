@@ -5,7 +5,7 @@
 
     public class Operations
     {
-        public List<int> numbers = new List<int>();
+        private List<int> numbers = new List<int>();
 
         public void ReadNumbers()
         {
