@@ -6,7 +6,7 @@ Problems:
   ►Write a program that reads from the console a sequence of positive integer numbers. The sequence ends when empty 
   line is entered. Calculate and print the sum and average of the elements of the sequence. Keep the sequence in List<int>.
   
-    Solution: [SumAndAverage](https://github.com/HristoAleksiev/DataStructuresProblems/tree/master/SumAndAverage/SumAndAverage)
+    Solution: [http://goo.gl/cxgV3d](http://goo.gl/cxgV3d)
   
   ►Write a program that reads N integers from the console and reverses them using a stack. Use the Stack<int> class.
   
