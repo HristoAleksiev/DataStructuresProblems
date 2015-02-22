@@ -5,7 +5,7 @@
 
     public class Remove
     {
-        public List<int> numbersWorkCopy = new List<int>();
+        private List<int> numbersWorkCopy = new List<int>();
 
         public void RemoveOddAppearances(List<int> numbers)
         {
