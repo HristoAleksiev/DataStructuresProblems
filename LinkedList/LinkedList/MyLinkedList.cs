@@ -15,7 +15,6 @@
         private LinkedListItem<T> Start { get; set; }
         private LinkedListItem<T> End { get; set; }
 
-        //  Add methods 
         public void Add(T itemValue)
         {
             LinkedListItem<T> newItem = new LinkedListItem<T>() { value = itemValue };
